@@ -4,10 +4,10 @@
 ## Why?
 
 
-This project is part of the selection process for Front-End Developer sent by **agap2IT**.
+This project is part of the selection process for Front-End Developer sent by **Bee Eng**.
 
 
-The challenge is to make an application that consumes information about the "Powerpuff Girls" TV Show and show informations to the user.
+The challenge is to make an application that consumes information about the "Powerpuff Girls" TV Show from TVMaze Api and shows informations to the user.
 
 
 ## Some Observations about this App
