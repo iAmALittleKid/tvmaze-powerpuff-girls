@@ -45,7 +45,7 @@ $ cd tvmaze
 **Installing dependencies**
 
 ```
-$ yarn
+$ yarn install
 ```
 
 _or_
