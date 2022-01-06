@@ -35,7 +35,7 @@ To run this project in the development mode, you'll need to have a basic environ
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/bernalvinicius/tvmaze.git
+$ git clone https://github.com/iAmALittleKid/tvmaze-powerpuff-girls.git
 ```
 
 ```
